@@ -1,5 +1,6 @@
 # NPTEL_assignment_noc18_ge09
-Non-Conventional Energy Resources Assignment
+Non-Conventional Energy Resources Assignment solutions
+
 This course looks at the operating principle of a range of non-conventional energy resources,
 materials used, characterization, and key performance characteristics. The technologies looked
 at will include, Solar energy, Wind, Batteries, Fuel cells, and Geothermal conversion. 
