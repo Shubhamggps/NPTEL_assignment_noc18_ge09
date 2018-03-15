@@ -1,6 +1,6 @@
 # NPTEL_assignment_noc18_ge09
 Non-Conventional Energy Resources Assignment solutions
-please mark STAR for this repository, Thanks!
+Please mark STAR for this repository, Thanks!
 
 This course looks at the operating principle of a range of non-conventional energy resources,
 materials used, characterization, and key performance characteristics. The technologies looked
